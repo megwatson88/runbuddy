@@ -39,3 +39,25 @@ header nav ul li a {
     font-size: 22px;
 }
 /*header nav var end */
+/*footer style */ 
+footer {
+    background: #fce138;
+    padding: 40px 35px;
+    width: 100%;
+}
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float:right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color: #024e76;
+}
